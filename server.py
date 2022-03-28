@@ -22,7 +22,7 @@ def about():
 def test():
   parametri = ["Augums", "Svars", "Vecums"]
   images = ["https://icatcare.org/app/uploads/2018/06/Layer-1704-1200x630.jpg", "https://firstvet.com/uploaded/images/articles/_1200x630_crop_center-center_82_none/Cat-vomitingdiarrhea.jpg?mtime=1562592055", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu5OeYesxZYjS_ZcFUoN80NP1OFrJ7tud8RA&usqp=CAU"]
-  return render_template("test.html", param=parametri, pictures=images)
+  return render_template("test.html", param=parametri, images=images)
 
 if __name__ == '__main__':
   app.run(debug="true")
