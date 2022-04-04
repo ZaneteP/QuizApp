@@ -2,7 +2,19 @@
 ;Vai Android ir operētājsistēma?: Jā-Nē-Nezinu-Šaubos
 ;Kuru procesora tipu visbiežāk izmanto mobilajās ierīcēs?: ARM-AMD-Intel-Nezinu
 ;Kam ir nepieciešams RAM?: Ātrai piekļuvei datiem-Ilgai informāciojas uzglabāšanai-Piekļuvei internetam-Nezinu
-;Kas no šiem neeksistē?: BolSFS-APFS-NTFS-Fat
+;Kāda tipa datnēm parasti ir paplašinājums EXE?: Izpildāmām datorprogrammu datnēm-Izklājlapu datnēm-Audiodatnēm-Teksta datnēm
 ;Kā atšķiras PNG un JPG?: JPG saspiež failu ar zaudējumiem-PNG saspiež failu ar zaudējumiem- Nekā neatšķiras- JPG ir attēls, bet PNG ir video
 ;Kas ir IP adrese?: Mūsu datora adrese internetā-Mūsu personas dari internetā-Jo lielāka ir IP adrese, jo jaudīgāks ir dators-Nezinu
-;
+;Ko datorā mēra gigahercos?: Procesora taktsātrumu-Brīvpiekļuves atmiņas ietilpību-Izvadāmās skaņas skaļumu-Monitora izšķirtspēju
+;Kura, visticamāk, ir tīmekļa vietnes adrese?: anna.file.c.ai - file://anna_ai.c - anna@file.c.ai - c:/file/anna.ai
+;Kurš apgalvojums par datora ierīču atbilstību ergonomikas prasībām ir patiess?: Monitoram jābūt viegli noliecamam, lai varētu noregulēt skata leņķi-Darba galda virsmai jābūt atstarojošai-Pele jānovieto pēc iespējas tālāk no tastatūra-Mākslīgajam apgaismojumam jāspīd tieši monitorā
+;Kādās vietās var droši pieslēgties jebkuram tur pieejamam bezvadu tīklam?: Nevienā no minētajām vietām-Skolā un mājās-Transporta līdzekļos, piemēram, autobusos un vilcienos-Sabiedriskās vietās, piemēram, kafejnīcās un lielveikalos
+;Kāpēc ir nepieciešams veidot datu dublējumus?: Lai varētu ātri atjaunot zaudētos datus-Lai uzskaitītu datu zudumus-Lai ekonomētu vietu uz cietā diska-Lai vairāki lietotāji vienlaicīgi varētu strādāt ar vienu un to pašu datni
+;Kurš apgalvojums par pretvīrusu programmu ir patiess?:Pretvīrusu programmatūra ir regulāri jāatjaunina- Pretvīrusu programmatūra nav nepieciešama, ja datorā nelieto interneta pakalpojumus-Pretvīrusu programmatūra atpazīst un pilnībā iznīcina jebkuru vīrusu-Datorā var instalēt tikai vienu pretvīrusu programmatūru.
+;Kas ir izplatāmprogrammatūra?: Programmatūra, kuru, lai pārbaudītu tās lietojamību, izplata bez maksas, bet vēlāk par to lietošanu ir jāmaksā-Programmatūra, ko lietotājs var izmantot bez maksas-Programmatūra, ko izmanto sistēmā specializētu aprēķinu veikšanai-Programmatūra, ko izmanto, lai ar datora palīdzību izpildītu noteikta veida darbus.
+;Kurš protokols nodrošina informācijas apmaiņu globālajā tīmeklī?: HTTP- SMTP- FTP- TCP/IP
+;Kas ir globālais tīmeklis?: Globāla hiperteksta sistēma, kas izmanto internetu kā informācijas transportēšanas mehānismu-Datu pārraides tīkls, kas nodrošina datu pārraidi plašam abonentu lokam-Globāls datortīkls, kuram nav centralizētas vadības un īpašnieka-Interneta pakalpojums, kas ļauj vienam lietotājam sarunāties ar citiem lietotājiem reālā laikā
+;Kuru no šiem datņu formātiem globālā tīmekļa konsorcijs (W3C) izveidoja kā daudzpusīgu vektorgrafikas standartu izmantošanai tīmekļa lappusēs?: SVG - WMF - CDR - DFX 
+;Kurš tags (birka) norāda, ka tālāk sekos viss tīmekļa lapā attēlojamais saturs, piemēram, rindkopas, attēli, hipersaites?; <body> - <html> - <head> - <style>
+;Kurā variantā saraksta elements pierakstīts pareizi?: <li> Pirmdiena </li> - <li/> Pirmdiena <li> - <li> Pirmdiena <li> - </li> Pirmdiena <li/>
+;Kādēļ veic datņu un mapju saspiešanu?: Lai samazinātu lejupielādējamās datnes lielumu - Lai samazinātu datnes nosaukuma garumu - Lai samazinātu augšupielādējamā attēla izšķirtspēju - Lai vairākus attēlus apvienotu vienā attēlā
