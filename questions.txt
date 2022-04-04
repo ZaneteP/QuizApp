@@ -1,2 +1,6 @@
-;Jautājums: Atbilde1-Atbilde2-Atbilde3-Atbilde4
-;Jautājums: Atbilde1-Atbilde2-Atbilde3-Atbilde4
+;Kura parole ir visdrošākā?: asdfg-anna123-012345-ghjurt58*GD
+;Vai Android ir operētājsistēma?: Jā-Nē-Nezinu-Šaubos
+;Kuru procesora tipu visbiežāk izmanto mobilajās ierīcēs?: ARM-AMD-Intel-Nezinu
+;Kam ir nepieciešams RAM?: Ātrai piekļuvei datiem-Ilgai informāciojas uzglabāšanai-Piekļuvei internetam-Nezinu
+;Kas no šiem neeksistē?: BolSFS-APFS-NTFS-Fat
+;Kā atšķiras PNG un JPG?: 
