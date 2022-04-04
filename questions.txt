@@ -3,4 +3,6 @@
 ;Kuru procesora tipu visbiežāk izmanto mobilajās ierīcēs?: ARM-AMD-Intel-Nezinu
 ;Kam ir nepieciešams RAM?: Ātrai piekļuvei datiem-Ilgai informāciojas uzglabāšanai-Piekļuvei internetam-Nezinu
 ;Kas no šiem neeksistē?: BolSFS-APFS-NTFS-Fat
-;Kā atšķiras PNG un JPG?: 
+;Kā atšķiras PNG un JPG?: JPG saspiež failu ar zaudējumiem-PNG saspiež failu ar zaudējumiem- Nekā neatšķiras- JPG ir attēls, bet PNG ir video
+;Kas ir IP adrese?: Mūsu datora adrese internetā-Mūsu personas dari internetā-Jo lielāka ir IP adrese, jo jaudīgāks ir dators-Nezinu
+;
